@@ -76,8 +76,8 @@ alert(fruta.cor);*/
 //var nome = "Murilo Patrício";
 //var n1 = 4;
 //var n2 = 4;
-//var frase2 = "coração do muri abaixo...";
-//var frase = "";
+//var frase2 = "Teste só o básico";
+//var frase = "Eu torço para o México";
 //alert(nome + " tem " + idade+ " anos")
 //alert(idade + idade2);
 //console.log(nome);
